@@ -9,11 +9,11 @@ source and references:
 Dynamic Programming problems can be solved using two main techniques:
 ## 1. Memoization
 there are two main steps:
-1. Solve the problem in anyway.
+**1. Solve the problem in anyway.**
  - visualize the problem as a tree
  - implement the tree using recursion
  - test the function
-2. Make it efficient
+**2. Make it efficient**
 - add a memo object.  In python, add a dictionary
 - add a base case to return memo values
 - store memo value in the memo
