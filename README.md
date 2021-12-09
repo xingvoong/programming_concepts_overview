@@ -38,4 +38,31 @@ there are two main steps:
 
 ## Tree
 - tree problem are in recursion problems
+
+### Order of operation in, pre, post traversal
+inorderTraversal
+```
+def inorderTraversal(self, root):
+    res = []
+    if root:
+      res = self.inorderTraversal(root.left)
+      res.append(root.value)
+      res += self.inorderTraversal(root.right)
+    return res
+```
+
+preorderTraversal
+```
+def preorderTraversal(self, root):
+    res = []
+    if root:
+      res.append(root.value)
+      res += self.preorderTraversal(root.left)
+      res += self.preorderTraversal(root.right)
+    return res
+```
+
+- create a list `res` first
+- check whether the root is valid
+- if there is nothing in the `res` list then I need to assign it to the recursive traversal function
  
