@@ -37,10 +37,19 @@ there are two main steps:
 
 
 ## Tree
-- tree problem are in recursion problems
+- tree problems are in recursion problems
+- Always check whether a root exists or a value of a node exists.
+- Similar to checking whether a key is in a hashmap
 
 ### Order of operation in, pre, post traversal
-inorderTraversal
+Algo:
+- create a list `res` first
+- check whether the root is valid
+- if there is nothing in the `res` list then I need to assign it to the recursive traversal function
+- remember to return the res
+
+
+**inorderTraversal**
 ```
 def inorderTraversal(self, root):
     res = []
@@ -51,7 +60,7 @@ def inorderTraversal(self, root):
     return res
 ```
 
-preorderTraversal
+**preorderTraversal**
 ```
 def preorderTraversal(self, root):
     res = []
@@ -62,7 +71,16 @@ def preorderTraversal(self, root):
     return res
 ```
 
-- create a list `res` first
-- check whether the root is valid
-- if there is nothing in the `res` list then I need to assign it to the recursive traversal function
+**postorderTraversal**
+```
+ def postorderTraversal(self, root):
+        res = []
+        if root:
+            res = self.postorderTraversal(root.left)
+            res += self.postorderTraversal(root.right)
+            res.append(root.value)
+        return res
+```
+
+
  
