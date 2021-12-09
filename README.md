@@ -1,4 +1,4 @@
-﻿An overview of programming concepts such as dynamic programming and backtracking with code.
+﻿An overview of programming concepts such as dynamic programming, backtracking, tree with code.
 
 ## Dynamic Programming
 source and references:
