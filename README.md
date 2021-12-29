@@ -1,5 +1,10 @@
 ﻿An overview of programming concepts such as dynamic programming, backtracking, tree with code.
 
+## Table of content
+### 1: DP
+
+### 2: Tree
+
 ## Dynamic Programming
 source and references:
  1. freeCodeCamp.org https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3027s
