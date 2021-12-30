@@ -7,3 +7,15 @@
 4: Write out the skeleton (or template) for backtracking
 
 5: Solve
+
+A List of questions to explore:
+
+- [ ] Subsets
+- [ ] Subsets II
+- [ ] Permutations
+- [ ] Permutations II
+- [ ] Combinations
+- [ ] Combination Sum II
+- [ ] Combination Sum III
+- [ ] Palindrome Partition
+- [ ] Generate parenthesis
