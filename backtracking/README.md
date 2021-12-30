@@ -1,3 +1,4 @@
+### I: Problem solving process
 1: Understand the questions
 
 2: Understand IOCE, pay attention to the O because that is what I need to return
@@ -8,7 +9,10 @@
 
 5: Solve
 
-A List of questions to explore:
+### Complexity Analysis:
+- draw a tree
+
+### A List of questions to explore:
 
 - [ ] Subsets
 - [ ] Subsets II
