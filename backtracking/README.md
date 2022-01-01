@@ -14,9 +14,9 @@
 
 ### A List of questions to explore:
 
-- [ ] Subsets
-- [ ] Subsets II
-- [ ] Permutations
+- [x] Subsets
+- [x] Subsets II
+- [x] Permutations
 - [ ] Permutations II
 - [ ] Combinations
 - [ ] Combination Sum II
