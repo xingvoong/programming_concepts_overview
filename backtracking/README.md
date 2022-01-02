@@ -17,8 +17,9 @@
 - [x] Subsets
 - [x] Subsets II
 - [x] Permutations
-- [ ] Permutations II
+- [x] Permutations II
 - [ ] Combinations
+- [ ] Combination Sum
 - [ ] Combination Sum II
 - [ ] Combination Sum III
 - [ ] Palindrome Partition
