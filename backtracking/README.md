@@ -18,8 +18,8 @@
 - [x] Subsets II
 - [x] Permutations
 - [x] Permutations II
-- [ ] Combinations
-- [ ] Combination Sum
+- [x] Combinations
+- [x] Combination Sum
 - [ ] Combination Sum II
 - [ ] Combination Sum III
 - [ ] Palindrome Partition
