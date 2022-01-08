@@ -20,7 +20,7 @@
 - [x] Permutations II
 - [x] Combinations
 - [x] Combination Sum
-- [ ] Combination Sum II
-- [ ] Combination Sum III
+- [x] Combination Sum II
+- [x] Combination Sum III
 - [ ] Palindrome Partition
 - [ ] Generate parenthesis
