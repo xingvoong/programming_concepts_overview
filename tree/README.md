@@ -18,3 +18,7 @@ return (go left
  - inorder traversal will not work because it does not give unique solution
  => use preorder instead: mid, left, right
  - to get a balanced tree, we always choose the middle node, to break tie for even number, we chose the left node.
+
+**convert sorted linked list to BST***
+- use inorder
+- Also, remember to move the head
