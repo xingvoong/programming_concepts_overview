@@ -5,7 +5,7 @@ Type of problems
 - [x]  Meeting room
 - [x]  Merge intervals
 - [x]  Minimum number of arrows to burst balloons
-- [ ]  Car Pooling (medium)
+- [x]  Car Pooling (medium)
 - [ ]  Non-overlapping Intervals (Medium)
 - [ ]  Teemo Attacking (Easy)
 - [ ]  Insert Interval (medium)
