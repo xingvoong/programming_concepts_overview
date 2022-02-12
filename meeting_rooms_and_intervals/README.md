@@ -7,6 +7,7 @@ Type of problems
 - [x]  Minimum number of arrows to burst balloons
 - [x]  Car Pooling (medium)
 - [ ]  Non-overlapping Intervals (Medium)
+  - Did not understand greedy solution
 - [ ]  Teemo Attacking (Easy)
 - [ ]  Insert Interval (medium)
 - [ ]  Add Bold Tag in String (medium)
