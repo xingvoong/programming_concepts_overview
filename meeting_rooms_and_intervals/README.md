@@ -9,7 +9,7 @@ Type of problems
 - [x]  Non-overlapping Intervals (Medium)
   - Did not understand greedy solution => if partially overlap, just directly remove the interval right after the current one
 - [x]  Teemo Attacking (Easy)
-- [ ]  Insert Interval (medium)
+- [x]  Insert Interval (medium)
 - [ ]  Add Bold Tag in String (medium)
 - [ ]  Partition Labels (medium)
 - [ ]  Interval List Intersections (medium)
