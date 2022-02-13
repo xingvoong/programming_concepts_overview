@@ -6,9 +6,9 @@ Type of problems
 - [x]  Merge intervals
 - [x]  Minimum number of arrows to burst balloons
 - [x]  Car Pooling (medium)
-- [ ]  Non-overlapping Intervals (Medium)
-  - Did not understand greedy solution
-- [ ]  Teemo Attacking (Easy)
+- [x]  Non-overlapping Intervals (Medium)
+  - Did not understand greedy solution => if partially overlap, just directly remove the interval right after the current one
+- [x]  Teemo Attacking (Easy)
 - [ ]  Insert Interval (medium)
 - [ ]  Add Bold Tag in String (medium)
 - [ ]  Partition Labels (medium)
